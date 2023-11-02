@@ -92,6 +92,9 @@ margin-top: 3%;
     bottom: 0;
     padding: 1%;
     background-color: black;
+}
+
+.rodp>p {
     color: #fff;
 }
 
